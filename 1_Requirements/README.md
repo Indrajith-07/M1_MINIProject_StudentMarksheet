@@ -10,4 +10,12 @@
        - ### Behavioural model
        - ### Structural model
    * ## STUDENT details
+       - ### Name
+       - ### Place
+       - ### College
+       - ### Date of Birth
+       - ### Semester
+       - ### Marks
+           - #### Obtained
+           - #### Maximum maeks
 

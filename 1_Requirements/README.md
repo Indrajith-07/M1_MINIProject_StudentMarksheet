@@ -1,17 +1,33 @@
 #  Title:    STUDENT MARKSHEET
 
-
-# Basic Requirements
-
-    - ## C programming Knowledge
-    - ## C code Compiling Softwares
-        - ###  Visual studio code 
-        - ###  Codeblocks
-    - ##  MS Excel
-       - ### For Gantt Chart
-    - ## Knowledge of UML diagram
+    --  An official record of a student's work, showing courses taken and grades achieved.
+    --  Marksheet serves as the proof of your completion of the course from the particular university.
+     
+## * Basic Features : 
+     - Read student details
+        - Name
+        - Place
+        - Date of Birth
+        - Semester
+        - Roll number
+     - Accept the number of subjects
+     - Accept the subjects names
+     - Accept subjects marks
+        - make sure marks are greater than or qual to zero and less than or equal to 100.
+     
+     - Find total marks
+     - Find percentage
+     - Based on condition Assign grades
+     
+     - Dislpay all the above details in pattern
      
      
+## Functions :
+   -- user defined
+      - inputdata()
+      - calculation()
+      - gradeassign()
+      - show()
      
 ## * High Level Requirements
 ## * Low Level Requirements
@@ -72,4 +88,13 @@
          
          
          
+## Basic Requirements
+
+    - ## C programming Knowledge
+    - ## C code Compiling Softwares
+        - ###  Visual studio code 
+        - ###  Codeblocks
+    - ##  MS Excel
+       - ### For Gantt Chart
+    - ## Knowledge of UML diagram
          

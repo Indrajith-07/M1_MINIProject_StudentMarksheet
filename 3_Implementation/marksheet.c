@@ -106,7 +106,7 @@ void show()
         printf("-");
         l1++;
     }
-    printf("\n|\t\t%d\t\t\t| \t %d\t\t | %.2f\t| \t %s\t|%c |\n",total,(subjects*100),per,res,grade);
+    printf("\n|\t\t%d\t\t\t| \t %d\t\t | %.2f\t| \t %s\t| %c |\n",total,(subjects*100),per,res,grade);
     while(k1<113)
     {
         printf("*");

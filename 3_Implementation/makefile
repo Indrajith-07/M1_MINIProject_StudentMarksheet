@@ -6,7 +6,7 @@ BUILD = build
 
 # All source code files
 SRC = project_main.c\
-src/calculator_operations.c
+src/marksheet_operations.c
 
 # All test source files
 TEST_SRC = src/marksheet_operations.c\
@@ -66,7 +66,7 @@ sanitize_check:
 coverage:$(TEST_SRC)
 	gcc -fprofile-arcs -ftest-coverage $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
 	./$(TEST_OUTPUT)
-	gcov -a calculator_operations.c
+	gcov -a marksheet_operations.c
 
 # Remove all the built files, invoke by `make clean`
 clean:

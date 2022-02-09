@@ -1,7 +1,7 @@
 # Plan and Output
 
 ------------------------------------------
-| Test ID  |    Description  |
+| Test ID  |    Description  | Expected output | Actual output | Type of test |
 -------------- |------------------‐-----------
-|  H_01    | if subjects>10 terminate program | 
+|  H_01    | if subjects>10 terminate program | SUCCESS | SUCCESS | Technical |
 ---------------| ----------------------------

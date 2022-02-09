@@ -26,7 +26,9 @@
    -- user defined
       - inputdata()
       - calculation()
-      - gradeassign()
+      - show();
+      - result();
+      - remark()
       - show()
      
 ## * High Level Requirements

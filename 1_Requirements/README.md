@@ -53,8 +53,22 @@
          
          
          
-         
-         
+  ##  --SWOT Analysis--
+          * Strengths --
+                 - Easy to use
+                 - Students/universities/People
+                 - Easy to Build
+                 - Available for all students
+                 - Low cost
+                 
+          * Weakness --
+                 - Profit margin low
+          
+          * Opportunities --
+                 - Too many educational universities,schools,colleges.
+                 - Large number of students/People
+          * Threats --
+                 - Fake record
          
          
          

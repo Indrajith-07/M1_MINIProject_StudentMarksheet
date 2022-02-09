@@ -5,7 +5,7 @@
 
     - ## C programming Knowledge
     - ## C code Compiling Softwares
-        - ###  Visual studio code - I am using this.
+        - ###  Visual studio code 
         - ###  Codeblocks
     - ##  MS Excel
        - ### For Gantt Chart

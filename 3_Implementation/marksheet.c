@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
+#include<ctype.h>
 void input();
 int calculations();
 void show();
@@ -38,10 +39,15 @@ void input()
     scanf("%d",&r);
     printf("Enter Semester : ");
     scanf("%d",&sem);
-    printf("Enter Number of Subjects: ");
-    scanf("%d",&subjects);
     printf("Enter Course : ");
     scanf("%s",&c);
+    printf("Enter Number of Subjects: ");
+    scanf("%d",&subjects);
+    if(subjects>10)
+    {
+        printf("Program Terminated\n");
+        exit(1);
+    }
 
     for(int i=0;i<subjects;i++)
     {
@@ -51,7 +57,7 @@ void input()
         scanf("%d",&marks[i]);
         if(marks[i]<0 || marks[i]>100)
         {
-            printf("Reenter correct marks : ");
+            printf("Renter correct marks : ");
             scanf("%d",&marks[i]);
         }
     }

@@ -1,9 +1,5 @@
 # M1_MINI_Project
 Repository for module1 activities and miniproject.
 
-## Milestone 1
-* Folder Structure
-* Idea
-* Requirements
-* Design
-* Test plan
+
+Codacy:https://api.codiga.io/project/30967/status/svg

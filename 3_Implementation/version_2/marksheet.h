@@ -6,6 +6,7 @@
 #include<ctype.h>
 #include<stdio.h>
 
+
 void input();
 int calculations();
 void show();

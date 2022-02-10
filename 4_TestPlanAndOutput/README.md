@@ -17,7 +17,7 @@
 |-------|--------------------------|------------|-----------|-------|
 |  H_07    | if per>=40 assign grade |     E     |    E    |   Technical  |
 |-------|--------------------------|------------|-----------|-------|
-|  H_08    | if per<40 assign grade  |     D     |    D    |   Technical  |
+|  H_08    | if per<40 assign grade  |     F     |    F    |   Technical  |
 
 
 

@@ -150,12 +150,14 @@ int calculations()
 
 
     if(per>= 90)
-    grade = 'A';
+    grade = 'S';
     else if(per>= 80)
-    grade = 'B';
+    grade = 'A';
     else if(per>= 70)
-    grade = 'C';
+    grade = 'B';
     else if(per>= 60)
+    grade = 'C';
+    else if(per>= 50)
     grade = 'D';
     else if(per>= 40)
     grade = 'E';

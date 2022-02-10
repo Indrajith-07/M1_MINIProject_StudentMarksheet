@@ -2,10 +2,10 @@
 PROJECT_NAME = marksheet
 
 # Output directory
-BUILD = build
+BUILD = marksheet_main.c marksheet.c
 
 # All source code files
-SRC = project_main.c\
+SRC = marksheet_main.c\
 src/marksheet_operations.c
 
 # All test source files

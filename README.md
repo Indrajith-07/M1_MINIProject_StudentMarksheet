@@ -7,6 +7,6 @@ Repository for module1 activities and miniproject.
 
 
 # Codiga :
-  ## https://api.codiga.io/project/30967/score/svg  
-  ## https://api.codiga.io/project/30967/status/svg
+  ## ![Code grade](https://api.codiga.io/project/30967/score/svg)
+  ## ![Code grade](https://api.codiga.io/project/30967/status/svg)
 

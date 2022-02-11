@@ -149,8 +149,8 @@
 
 
 # OUTput Images :
- ![testcase1_output](https://user-images.githubusercontent.com/98821876/153594117-e241b771-03c1-4aea-9d08-633f8aa869cf.png)
- [marksheet_output.txt](https://github.com/Indrajith-07/M1_MINIProject_StudentMarksheet/files/8048694/marksheet_output.txt)
+ ##  ![testcase1_output](https://user-images.githubusercontent.com/98821876/153594117-e241b771-03c1-4aea-9d08-633f8aa869cf.png)
+ ##  [marksheet_output.txt](https://github.com/Indrajith-07/M1_MINIProject_StudentMarksheet/files/8048694/marksheet_output.txt)
 
 
  

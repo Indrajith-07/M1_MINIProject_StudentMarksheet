@@ -103,4 +103,19 @@
     - ##  MS Excel
        - ### For Gantt Chart
     - ## Knowledge of UML diagram
+    
+    
+    
+    
+ # Design
+
+## * Behavior Diagram :
+      -  Class diagram
+      - ![class_miniproject](https://user-images.githubusercontent.com/98821876/153587864-b6301436-367a-420f-b151-2ee242935931.png)
+
+      
+ ## * Structure Diagram :
+      -  Flowchart   
+      -  ![flowchart_miniproject](https://user-images.githubusercontent.com/98821876/153587916-20395f48-7c95-4bcb-bfab-94c2653b0ac7.jpg)
+
          

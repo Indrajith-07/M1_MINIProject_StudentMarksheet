@@ -11,3 +11,4 @@ Repository for module1 activities and miniproject.
   ## ![Code grade](https://api.codiga.io/project/30967/status/svg)
 
 # [![C/C++ CI](https://github.com/Indrajith-07/M1_MINIProject_StudentMarksheet/actions/workflows/marksheet.yml/badge.svg)](https://github.com/Indrajith-07/M1_MINIProject_StudentMarksheet/actions/workflows/marksheet.yml)
+# [![Makefile CI](https://github.com/Indrajith-07/M1_MINIProject_StudentMarksheet/actions/workflows/makefile.yml/badge.svg)](https://github.com/Indrajith-07/M1_MINIProject_StudentMarksheet/actions/workflows/makefile.yml)

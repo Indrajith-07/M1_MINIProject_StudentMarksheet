@@ -110,18 +110,18 @@
  # Design
 
 ## * Behavior Diagram :
-      -  Class diagram
-      - ![class_miniproject](https://user-images.githubusercontent.com/98821876/153587864-b6301436-367a-420f-b151-2ee242935931.png)
+   -  Class diagram
+   - ![class_miniproject](https://user-images.githubusercontent.com/98821876/153587864-b6301436-367a-420f-b151-2ee242935931.png)
 
       
  ## * Structure Diagram :
-      -  Flowchart   
-      -  ![flowchart_miniproject](https://user-images.githubusercontent.com/98821876/153587916-20395f48-7c95-4bcb-bfab-94c2653b0ac7.jpg)
+   -  Flowchart   
+   -  ![flowchart_miniproject](https://user-images.githubusercontent.com/98821876/153587916-20395f48-7c95-4bcb-bfab-94c2653b0ac7.jpg)
 
     
  #  *  Impementation 
-      ## * Code 
-          ##   *   [marksheet_code.txt](https://github.com/Indrajith-07/M1_MINIProject_StudentMarksheet/files/8048665/marksheet_code.txt)
+   ## * Code 
+   ##   *   [marksheet_code.txt](https://github.com/Indrajith-07/M1_MINIProject_StudentMarksheet/files/8048665/marksheet_code.txt)
  
  
  # * Test Plan and Output
